@@ -1,0 +1,11 @@
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\bin\Debug\netcoreapp2.0\SampleJWT.deps.json
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\bin\Debug\netcoreapp2.0\SampleJWT.runtimeconfig.json
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\bin\Debug\netcoreapp2.0\SampleJWT.runtimeconfig.dev.json
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\bin\Debug\netcoreapp2.0\SampleJWT.dll
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\bin\Debug\netcoreapp2.0\SampleJWT.pdb
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.csprojAssemblyReference.cache
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.csproj.CoreCompileInputs.cache
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.AssemblyInfoInputs.cache
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.AssemblyInfo.cs
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.dll
+C:\Estudo\dotnetcore\poc-jwt\SampleJWT\obj\Debug\netcoreapp2.0\SampleJWT.pdb
